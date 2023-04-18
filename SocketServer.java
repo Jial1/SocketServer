@@ -13,7 +13,9 @@ public class SocketServer {
             "Life is pain, Highness. Anyone who says differently is selling something.",
             "So many books, so little time.",
             "A room without books is like a body without a soul.",
-            "You only live once, but if you do it right, once is enough."
+            "You only live once, but if you do it right, once is enough.",
+            "Life is pain, Highness. Anyone who says differently is selling something.(Princess Bride)",
+            "You seem a decent fellow. I hate to kill you.(Princess Bride)"
     };
 
     public static void main(String[] arg) throws IOException {
